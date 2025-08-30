@@ -2,7 +2,8 @@
 
 This repository contains the necessary files to deploy n8n workflow automation tool to Render.com.
 
+Live Link --->https://n8nrendertesting.onrender.com/
+   ^-----It take time so wait 
 
-Current status link woking means live in render termial ut notjing scene on screen as well as 
-it shows after soemtimes cannnot get/ this on white page 
---utp 12:29 pm 30-8-25
+## Live Preview
+![live](./N8NLivePreview.png)   
