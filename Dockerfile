@@ -19,7 +19,7 @@ ENV NODE_ENV=production
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PORT=5678
 ENV N8N_PROTOCOL=https
-ENV WEBHOOK_URL=https://your-app-name.onrender.com/
+ENV WEBHOOK_URL=https://n8nrendertesting.onrender.com
 ENV GENERIC_TIMEZONE=UTC
 
 # Health check
